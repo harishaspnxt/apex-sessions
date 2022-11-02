@@ -10,7 +10,7 @@ public Testclass(String firstName,String lastName) {
 }
 public void display(){
 
-    system.debug(this.firstName + ' ' + this.lastName);
+    system.debug(this.firstName + ' ' + this.lastName + '!');
 }
 
 public void bye()
